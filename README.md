@@ -1,6 +1,6 @@
  Fake ChatGPT - Instantly Craft Real-Looking ChatGPT Conversations
 
-[FakeChatGPT.com](https://fakechatgpt.com) is a lightweight, browser-based **fake ChatGPT conversation generator** that lets you create, customize, and share realistic GPT-style dialogues in seconds.  
+browser-based **fake ChatGPT conversation generator** that lets you create, customize, and share realistic GPT-style dialogues in seconds.  
 Whether you need eye-catching social media posts, tutorial screenshots, marketing mock-ups, or pranking your wife, FakeChatGPT delivers.
 
 ---
@@ -15,19 +15,17 @@ Whether you need eye-catching social media posts, tutorial screenshots, marketin
 | **Pranking your friends** | Create hilarious conversations and share them with friends. |
 
 ---
+## 🌟 Features
+  - Supporting endless amount of messages in a conversation
+  - uploading images as chatgpt responses
+  - Dark/Light mode support
+  - Drag & drop messages to rearrange the flow.
+  - Markdown rendering support in text
 
-## Quick Start
+## 🚀 Live Demo
 
-1. Open your browser and visit [fake chatgpt](https://fakechatgpt.com)
-2. The rest is self explainatory :) 
+Visit [Fake Chatgpt](https:www//fakechatgpt.com) to try it out!
 
----
-
-## Advanced Tips
-
-- Drag & drop messages to rearrange the flow.  
-- Use the **“Typing…”** effect to create looping GIFs.  
-- Add **code snippets** with triple back-ticks ``` for genuine ChatGPT styling.  
 ---
 ## Related articles:
 - [how to make chatgpt say exactly what i want](https://medium.com/@RealIndie/how-to-make-chatgpt-say-exactly-what-i-want-f75cbc0f8dec)
