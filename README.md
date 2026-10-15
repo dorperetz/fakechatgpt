@@ -26,6 +26,8 @@ Whether you need eye-catching social media posts, tutorial screenshots, marketin
 
 Visit [Fake Chatgpt](https:www//fakechatgpt.com) to try it out!
 
+Also check out [Hyperverse](https://hyperverse.sh).
+
 ---
 ## Related articles:
 - [how to make chatgpt say exactly what i want](https://medium.com/@RealIndie/how-to-make-chatgpt-say-exactly-what-i-want-f75cbc0f8dec)
